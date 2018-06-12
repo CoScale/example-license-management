@@ -1,0 +1,6 @@
+# CoScale CLI files
+api.conf
+coscale-cli-*
+
+# Vscode
+.vscode
